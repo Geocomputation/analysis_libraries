@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javabayes">
+    <CLASSES>
+      <root url="jar://D:/build/javabayes.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/R/win-library/3.3/rJava/jri/JRI.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/R/win-library/3.3/rJava/jri/JRIEngine.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/R/win-library/3.3/rJava/jri/REngine.jar!/" />
+      <root url="jar://C:/Program Files/Weka-3-8/weka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
